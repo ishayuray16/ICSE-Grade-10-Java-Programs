@@ -1,4 +1,4 @@
-200~Copyright (C) [year] by [copyright holder] <[email]>
+Copyright (C) [2024] by [Ishayu Ray] <[ishayuray@gmail.com]>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.
 
